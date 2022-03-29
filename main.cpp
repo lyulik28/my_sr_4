@@ -15,5 +15,6 @@ int main()
   cout<<"first commmit";
   cout<<"\nbranch 1\n";
   cout<<"\nbranch 2\n";
+  cout<<"bad commit";
 		return 0;
 }
