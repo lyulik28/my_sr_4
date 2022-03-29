@@ -12,5 +12,6 @@ int main()
 		if (n == 0) sum += A[i];
 	}
 		cout << "Сумма элементов кратных 3= " << sum << endl;
+  cout<<"first commmit";
 		return 0;
 }
